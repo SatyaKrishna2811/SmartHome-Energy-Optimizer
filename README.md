@@ -71,7 +71,7 @@ If the limit is exceeded, the appliance is marked as **[SKIPPED]** to ensure saf
 
 ## 👥 Contributors
 
-This project was developed as part of the **Data Structures & Algorithms (ADS)** course at **Amrita Vishwa Vidyapeetham**.
+This project was developed as part of the **Advanced Data Structures and Algorithms Analysis(ADSAA)** course at **Amrita Vishwa Vidyapeetham**.
 
 * **Vepuri Satya Krishna** (DL.AI.U4AID24140)
 * **Gowripriya R** (DL.AI.U4AID24113)
